@@ -7,7 +7,7 @@
 # Kijabe Anesthesia Handbook
 
 This repository has the contents of the Kijabe Hospital Anesthesia Handbook. 
-The repository was adapted with permission from the VIMBook [Vimbook.com](https://vimbook.beauhilton.com/).
+The repository was adapted with permission from [VIMbook.com](https://vimbook.beauhilton.com/).
 
 
 ## contributing
