@@ -4,9 +4,10 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vanderbilt-internal-medicine/vimbook)
 
-# VIMbook
+# Kijabe Anesthesia Handbook
 
-This repository has the contents of the Vanderbilt Internal Medicine Handbook (VIMBook).
+This repository has the contents of the Kijabe Hospital Anesthesia Handbook. 
+The repository was adapted with permission from the VIMBook [Vimbook.com](https://vimbook.beauhilton.com/).
 
 
 ## contributing
@@ -16,14 +17,13 @@ This repository has the contents of the Vanderbilt Internal Medicine Handbook (V
 
 Create an account on [GitHub](https://github.com/).
 It's free.
-Then shoot an email with your username to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org)
+Then shoot an email with your username to one of the maintainers Phil Yao (insert email) or Matt Kynes (insert email)
 to be added to the organization.
 
 
 ### finding the files and opening them for editing
 
-On each page on [vimbook.org](vimbook.beauhilton.com)
-there is a small pencil icon in the top right.
+On each page there is a small pencil icon in the top right. 
 If you are logged into GitHub,
 have been granted editing access,
 and click this button,
