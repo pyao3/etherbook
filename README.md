@@ -1,9 +1,4 @@
 
-![Twitter Follow](https://img.shields.io/twitter/follow/VUMCMedicineRes?style=social)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fvimbook.beauhilton.com)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vanderbilt-internal-medicine/vimbook)
-
 # Kijabe Anesthesia Handbook
 
 This repository has the contents of the Kijabe Hospital Anesthesia Handbook. 
@@ -30,7 +25,7 @@ and click this button,
 it will take you right to a file editor for that page.
 
 Alternatively, if you are already here on GitHub,
-the working files are in folders in the [docs directory](https://github.com/vanderbilt-internal-medicine/vimbook/tree/main/docs).
+the working files are in folders in the [docs directory](https://github.com/pyao3/kijabebook/edit/main/).
 Click into the folder you want, then into the file you want,
 and click the pencil icon above and to the right of the text.
 
