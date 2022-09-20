@@ -12,7 +12,7 @@ The repository was adapted with permission from [VIMbook.com](https://vimbook.be
 
 Create an account on [GitHub](https://github.com/).
 It's free.
-Then shoot an email with your username to one of the maintainers [Phil Yao](mailto:pyyao@health.ucsd.edu) or Matt Kynes (mailto:j.matt.kynes@vumc.org)
+Then shoot an email with your username to one of the maintainers [Phil Yao](mailto:pyyao@health.ucsd.edu) or [Matt Kynes](mailto:j.matt.kynes@vumc.org)
 to be added to the organization.
 
 
