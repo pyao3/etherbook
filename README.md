@@ -25,7 +25,7 @@ and click this button,
 it will take you right to a file editor for that page.
 
 Alternatively, if you are already here on GitHub,
-the working files are in folders in the [docs directory](https://github.com/pyao3/kijabebook/edit/main/).
+the working files are in folders in the [docs directory](https://github.com/pyao3/kijabebook/docs).
 Click into the folder you want, then into the file you want,
 and click the pencil icon above and to the right of the text.
 
