@@ -258,7 +258,6 @@ but if you have something more extensive to say you can overflow into the larger
 The website takes a few minutes to rebuild and redeploy,
 but will go live as soon as this process is done.
 
-
 ### discussions and suggestions
 
 Plain old emails works great,
