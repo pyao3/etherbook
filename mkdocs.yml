@@ -1,9 +1,9 @@
-site_name: Kijabe Anesthesiology Residency Handbook
-site_url: https://pyao3.github.io/kijabebook/
-repo_url: https://github.com/pyao3/kijabebook/
+site_name: Kijabe Anesthesiology Handbook
+site_url: https://pyao3.github.io/etherbook/
+repo_url: https://github.com/pyao3/etherbook/
 edit_uri: edit/main/docs/
 copyright: |
-  Copyright &copy; 2022 Vanderbilt University Medical Center <br>
+  Copyright &copy; 2022 Insert copyright here <br>
   Vanderbilt University Medical Center is committed to principles of equal opportunity and affirmative action. <br>
   EOE/AA/Women/Minority/Vets/Disabled <br>
 docs_dir: 'docs'
