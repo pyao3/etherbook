@@ -1,1383 +1,1373 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pyao3.github.io/etherbook/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-digital-resources/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-digital-resources/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-discharge-va/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-discharge-va/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-discharge-vumc/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-discharge-vumc/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-door-codes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-door-codes/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-phone-numbers/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-phone-numbers/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-rotations-va/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-rotations-va/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-rotations-vumc/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-rotations-vumc/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/appendices/appendices-uploading-records/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/appendices/appendices-uploading-records/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-acs/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/demo/demo-lights/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-arrhythmias/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-acs/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-atrial-fibrillation-and-flutter/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-arrhythmias/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-autonomics-and-orthostatics/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-atrial-fibrillation-and-flutter/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-bedside-echocardiography/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-autonomics-and-orthostatics/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-cardiac-devices/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-bedside-echocardiography/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-chest-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-cardiac-devices/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-chf/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-chest-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-ekg/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-chf/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-inpatient-hypertension/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-ekg/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-pe/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-inpatient-hypertension/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-rhc/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-pe/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-shock/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-rhc/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-syncope/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-shock/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/cardiology/cardiology-valvular-heart-disease/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-syncope/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-abcdef-a2f-bundle/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/cardiology/cardiology-valvular-heart-disease/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-ards/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-abcdef-a2f-bundle/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-brain-death/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-ards/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-codes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-brain-death/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-drips/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-codes/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-intubation-extubation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-drips/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-modes-oxygen-delivery/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-intubation-extubation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-refractory-hypercapnia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-modes-oxygen-delivery/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-refractory-hypoxemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-refractory-hypercapnia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-sepsis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-refractory-hypoxemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-shock/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-sepsis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-temperature-abnormalities/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-shock/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-tracheostomy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-temperature-abnormalities/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-ultrasound/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-tracheostomy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/critical-care/critical-care-vent-settings/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-ultrasound/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/demo/demo-lights/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/critical-care/critical-care-vent-settings/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-adrenal-incidentalomas/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-adrenal-incidentalomas/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-adrenal-insufficiency/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-adrenal-insufficiency/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-diabetes-inpatient-management/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-diabetes-inpatient-management/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-dka/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-dka/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-hyperthyroidism/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-hyperthyroidism/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-hypoglycemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-hypoglycemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-hypothyroidism/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-hypothyroidism/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-severe-hypertriglyceridemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-severe-hypertriglyceridemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-steroid-conversions/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-steroid-conversions/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-stress-dose-steroids/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-stress-dose-steroids/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-thyroid-nodules/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-thyroid-nodules/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/endocrinology/endocrinology-thyroid-storm/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/endocrinology/endocrinology-thyroid-storm/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-acute-abdominal-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-acute-abdominal-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-acute-diverticulitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-acute-diverticulitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-acute-pancreatitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-acute-pancreatitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-biliary-disease/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-biliary-disease/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-c-diff/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-c-diff/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-chronic-pancreatitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-chronic-pancreatitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-constipation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-constipation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-diarrhea/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-diarrhea/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-esophageal-disorders/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-esophageal-disorders/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-gastroparesis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-gastroparesis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-gi-bleeding/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-gi-bleeding/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-gi-covid/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-gi-covid/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-ibs/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-ibs/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-inflammatory-bowel-disease/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-inflammatory-bowel-disease/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-intestinal-ischemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-intestinal-ischemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-nausea-vomiting/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-nausea-vomiting/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-peptic-ulcer-disease/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-peptic-ulcer-disease/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/gastroenterology/gastroenterology-small-bowel-obstruction/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/gastroenterology/gastroenterology-small-bowel-obstruction/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-dementia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-dementia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-falls/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-falls/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-frailty/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-frailty/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-functional-status/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-functional-status/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-malnutrition/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-malnutrition/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-medication-management/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-medication-management/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-overview/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-overview/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/geriatrics/geriatrics-urinary-incontinence-and-foley-catheter/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/geriatrics/geriatrics-urinary-incontinence-and-foley-catheter/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-anemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-anemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-anticoagulation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-anticoagulation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-bone-marrow-transplant/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-bone-marrow-transplant/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-cart/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-cart/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-coagulopathies/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-coagulopathies/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-dic/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-dic/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-hypercoagulable-states/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-hypercoagulable-states/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-leukemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-leukemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-leukocytosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-leukocytosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-lymphoma/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-lymphoma/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-medical-oncology-resources/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-medical-oncology-resources/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-myelodysplastic-syndromes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-myelodysplastic-syndromes/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-myeloproliferative-neoplasms/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-myeloproliferative-neoplasms/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-neutropenia-and-neutropenic-fever/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-neutropenia-and-neutropenic-fever/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-oncologic-emergencies/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-oncologic-emergencies/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-pancytopenia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-pancytopenia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-paraneoplastic-syndromes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-paraneoplastic-syndromes/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-plasma-cell-dyscrasias/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-plasma-cell-dyscrasias/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-sickle-cell-crisis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-sickle-cell-crisis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-therapy-toxicities/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-therapy-toxicities/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-thrombocytopenia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-thrombocytopenia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-transfusion-medicine/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-transfusion-medicine/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hematology-oncology/hematologyoncology-vte/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hematology-oncology/hematologyoncology-vte/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-acute-liver-failure/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-acute-liver-failure/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-alcoholic-hepatitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-alcoholic-hepatitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-ascites/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-ascites/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-cirrhosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-cirrhosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-coagulopathy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-coagulopathy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-hepatic-encephalopathy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-hepatic-encephalopathy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-hepatocellular-carcinoma/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-hepatocellular-carcinoma/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-hepatorenal-syndrome/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-hepatorenal-syndrome/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-hyponatremia-cirrhosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-hyponatremia-cirrhosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-liver-transplantation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-liver-transplantation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-nash-and-nafld/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-nash-and-nafld/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-portal-vein-thrombosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-portal-vein-thrombosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-sbp/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-sbp/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-tips/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-tips/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hepatology/hepatology-upper-gi-bleed-cirrhosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hepatology/hepatology-upper-gi-bleed-cirrhosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-enteral-nutrition/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-enteral-nutrition/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-guidelines-pregnant-patients/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-guidelines-pregnant-patients/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-lines-and-catheters/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-lines-and-catheters/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-telemetry/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-telemetry/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-transitions-of-care/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-transitions-of-care/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/hospital-medicine/hospital-medicine-wounds/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/hospital-medicine/hospital-medicine-wounds/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-disease-overview-art/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-disease-overview-art/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-disease-sexually-transmitted-diseases/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-disease-sexually-transmitted-diseases/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-aids-defining-conditions/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-aids-defining-conditions/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-antimicrobial-prophylaxis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-antimicrobial-prophylaxis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-bacteremia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-bacteremia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-cns-infection/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-cns-infection/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-diabetic-foot-infection/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-diabetic-foot-infection/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-endocarditis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-endocarditis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-fungal-infections/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-fungal-infections/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-general-tips/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-general-tips/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-gu-infection/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-gu-infection/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-hiv-art-general-concepts/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-hiv-art-general-concepts/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-inpatient-covid19/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-inpatient-covid19/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-orthopedic-infection/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-orthopedic-infection/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-pulmonary-infections/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-pulmonary-infections/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/infectious-diseases/infectious-diseases-ssti/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/infectious-diseases/infectious-diseases-ssti/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/introduction/introduction-acknowledgements/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/main/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/introduction/introduction-authors-editors-reviewers/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-acid-base/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/introduction/introduction-disclaimers/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-acute-rejection/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/introduction/introduction-rationale/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-aki/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/introduction/introduction-web-app-setup/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-approach-ckd/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/main/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hematuria/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-acid-base/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypercalcemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-acute-rejection/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hyperkalemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-aki/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypernatremia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-approach-ckd/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hyperphosphatemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hematuria/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypocalcemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypercalcemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypokalemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hyperkalemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypomagnesemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypernatremia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hyponatremia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hyperphosphatemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-hypophosphatemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypocalcemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-intravenous-fluids/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypokalemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-renal-replacement-therapy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypomagnesemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-transplant-aki/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hyponatremia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-transplant-medicine/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-hypophosphatemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/nephrology/nephrology-ua/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-intravenous-fluids/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/main/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-renal-replacement-therapy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-aidp/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-transplant-aki/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-als/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-transplant-medicine/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-ams/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/nephrology/nephrology-ua/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-basic-seizures/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/main/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-brain-masses/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-aidp/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-elevated-icp-and-hydrocephalus/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-als/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-inpatient-headache/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-ams/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-ms/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-basic-seizures/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-myasthenia-lambert-eaton/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-brain-masses/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-outpatient-headache/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-elevated-icp-and-hydrocephalus/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-parkinson/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-inpatient-headache/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-status-epilepticus/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-ms/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-stroke-0/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-myasthenia-lambert-eaton/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/neurology/neurology-vertigo/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-outpatient-headache/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-approach-anisocoria/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-parkinson/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-approach-blurry-vision/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-status-epilepticus/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-approach-double-vision/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-stroke-0/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-approach-flashes-floaters/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/neurology/neurology-vertigo/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-approach-red-eye/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-approach-anisocoria/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-basic-eye-anatomy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-approach-blurry-vision/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-cataracts/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-approach-double-vision/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-common-abbreviations-in-ophtho/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-approach-flashes-floaters/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-conjunctivitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-approach-red-eye/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-corneal-injury/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-basic-eye-anatomy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-dry-eye/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-cataracts/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-fungemia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-common-abbreviations-in-ophtho/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-glaucoma/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-conjunctivitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-optic-neuritis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-corneal-injury/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-orbital-and-preseptal-cellulitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-dry-eye/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-papilledema/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-fungemia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-retinal-detachment/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-glaucoma/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-taking-a-good-history/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-optic-neuritis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-uveitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-orbital-and-preseptal-cellulitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/ophthalmology/ophthalmology-wilsonsdisease/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-papilledema/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-asthma/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-retinal-detachment/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-chronic-rhinosinusitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-taking-a-good-history/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-fatigue/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-uveitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-hypertension/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/ophthalmology/ophthalmology-wilsonsdisease/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-lipids/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-asthma/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-obesitynutrition/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-chronic-rhinosinusitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-outpatient-anxiety-depression/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-fatigue/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/outpatient-medicine/outpatient-medicine-preventative-medicine/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-hypertension/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-acute-and-chronic-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-lipids/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-code-status-discussion/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-obesitynutrition/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-death-pronouncement/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-outpatient-anxiety-depression/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-hospice/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/outpatient-medicine/outpatient-medicine-preventative-medicine/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-opiate-principles/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-acute-and-chronic-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pain-and-palliative/pain-and-palliative-video-examples-navigating-difficult-conversations/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-code-status-discussion/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-back-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-death-pronouncement/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-knee-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-hospice/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-neck-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-opiate-principles/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-pmr-consultation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pain-and-palliative/pain-and-palliative-video-examples-navigating-difficult-conversations/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-rehabilitation-options/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-back-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-shoulder-pain/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-knee-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-spasticity/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-neck-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-tbi/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-pmr-consultation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-agitation-management/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-rehabilitation-options/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-alcohol-use-disorder/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-shoulder-pain/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-delirium/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-spasticity/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-inpatient-insomnia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/physical-medicine-rehabilitation/physical-medicine-rehabilitation-tbi/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-medical-decision-making-capacity/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-about/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-medical-hold/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-anesthesia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-motivational-interviewing/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-anticoagulation-parameters/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-opioid-use-disorder/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-arterial-line/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-personality-disorders/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-central-line/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/psychiatry/psychiatry-substance-use-disorder/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-consent/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-acute-asthma-exacerbation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-dht/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-airway-clearance/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-lumbar-puncture/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-blood-gases/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-paracentesis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-cf-exacerbation/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-thoracentesis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-chest-tubes/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/procedures/procedures-ultrasound-guided-peripheral-iv/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-copd-exacerbation-management/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-agitation-management/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-cxrs/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-alcohol-use-disorder/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-hemoptysis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-delirium/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-home-oxygen-therapies/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-inpatient-insomnia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-hypoxia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-medical-decision-making-capacity/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-ild/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-medical-hold/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-inhaler-therapy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-motivational-interviewing/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-lung-masses/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-opioid-use-disorder/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-pfts/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-personality-disorders/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-pleural-effusions/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/psychiatry/psychiatry-substance-use-disorder/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/pulmonary/pulmonary-pulmonary-hypertension/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-acute-asthma-exacerbation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-antiphospholipid/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-airway-clearance/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-arthrocentesis-quick-look/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-blood-gases/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-biologic-overview/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-cf-exacerbation/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-crystal-arthropathy/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-chest-tubes/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-inflammatory-myopathies/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-copd-exacerbation-management/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-rheumatoid-arthritis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-cxrs/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-rheumatology-lab-testing/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-hemoptysis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-sarcoidosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-home-oxygen-therapies/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-scleroderma/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-hypoxia/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-sle/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-ild/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/rheumatology/rheumatology-vasculitis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-inhaler-therapy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/toxicology/toxicology-brown-recluse-loxoscelism/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-lung-masses/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/toxicology/toxicology-overdose-management/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-pfts/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/toxicology/toxicology-qtc/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-pleural-effusions/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/imhandbook/toxicology/toxicology-toxidrome-overview/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/pulmonary/pulmonary-pulmonary-hypertension/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/introduction/introduction-acknowledgements/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/radiology/radiology-consults-radiology-procedures/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/introduction/introduction-disclaimers/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/radiology/radiology-cxr/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/introduction/introduction-web-app-setup/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/radiology/radiology-kub/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-about/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/radiology/radiology-radiology-exams-diagnosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-anesthesia/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-antiphospholipid/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-anticoagulation-parameters/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-arthrocentesis-quick-look/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-arterial-line/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-biologic-overview/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-central-line/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-crystal-arthropathy/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-consent/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-inflammatory-myopathies/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-dht/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-rheumatoid-arthritis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-lumbar-puncture/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-rheumatology-lab-testing/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-paracentesis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-sarcoidosis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-thoracentesis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-scleroderma/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/procedures/procedures-ultrasound-guided-peripheral-iv/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-sle/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/radiology/radiology-consults-radiology-procedures/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/rheumatology/rheumatology-vasculitis/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/radiology/radiology-cxr/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/toxicology/toxicology-brown-recluse-loxoscelism/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/radiology/radiology-kub/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pyao3.github.io/etherbook/toxicology/toxicology-overdose-management/</loc>
-         <lastmod>2022-10-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pyao3.github.io/etherbook/toxicology/toxicology-qtc/</loc>
-         <lastmod>2022-10-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pyao3.github.io/etherbook/toxicology/toxicology-toxidrome-overview/</loc>
-         <lastmod>2022-10-18</lastmod>
+         <loc>https://pyao3.github.io/kijabebook/radiology/radiology-radiology-exams-diagnosis/</loc>
+         <lastmod>2022-10-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
