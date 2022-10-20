@@ -1,22 +1,14 @@
-# Acknowledgements
+# Acknowledgements and Rationale
 
-The Vanderbilt University Medical Center (VUMC) Internal Medicine
-Housestaff Handbook began with an Internal Medicine Resident Quality
-Improvement Project which was led by Michael J. Neuss, MD, PhD, under
-the guidance of Jennifer K. Green, MD, MPH in 2019.
+Kijabe Anesthesia Handbook was created as a tool to facilitate delivery of high 
+quality anesthesia care in a resource limited setting using the available tools 
+(a mobile phone and the internet). We hope to provide readers with direct
+and actionable guidance, consolidating the combined wisdom of
+generations of residents, KRNAs, and faculty experts.
 
-We would like to thank the following individuals for their contributions
-to the 4th edition of the Housestaff Handbook:
+Purpose of this document is:
+- KRNA students: teach the basics of clinical anesthesia 
+- Visiting residents/fellows: orient to anesthesia in Kijabe
+- Seasoned anesthesia providers: refresh on rare or emergent cases
 
--   The many VUMC residents (past and present) who have meticulously
-    authored each section of this handbook.
--   The VUMC faculty who carefully reviewed each topic for its accuracy.
--   Leah Brown, MD and Joseph Quintana, MD, the 3<sup>rd</sup> edition's
-    co-editors-in-chief, whose guidance was instrumental in the
-    transition between editions.
--   Chase Webber, DO, who was a sounding board for our new ideas
-    throughout the year as the Handbook’s faculty advisor.
--   C. Beau Hilton, MD for his work in updating and improving the online
-    version of this handbook.
--   John McPherson, MD, Kim Rathmell, MD PhD, Kristy Braden and Maria
-    Kasel, for their unwavering support.
+We would like to thank Dr. Beau Hilton for his help establishing this handbook.
